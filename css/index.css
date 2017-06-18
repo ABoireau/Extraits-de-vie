@@ -1,0 +1,101 @@
+.section {
+  border: 1px solid #6EC9AE;
+}
+
+img.circle-img {
+    border: 0.5px solid #6EC9AE;
+}
+
+.section.titre {
+	border: none;
+}
+
+img.logo {
+	width: auto;
+	height: 100%;
+}
+
+.img-wrapper {
+	width: 250px;
+	height: 250px;
+}
+
+nav {
+	margin-bottom: 20px;
+	background-color: #C6FDDE;
+}
+
+.section h2 {
+	font-size:2rem;
+	padding: 0 1em;
+	color: #6EC9AE;
+}
+
+.row .col {
+	padding: 0;
+}
+
+.left-img {
+	margin-left: auto;
+}
+
+.apropos, .contact {
+	text-align: center;
+}
+
+img.small-img {
+	max-width: 30%;
+}
+
+img.img-menu {
+	max-width: 100px;
+    max-height: 40px;
+	margin-top: 1em;
+	margin-right: 8px;
+}
+
+.contenu {
+	margin-left: 1em;
+}
+
+hr.separation {
+	margin-top: 3em;
+	border-top: 1px dashed #8c8b8b;
+}
+
+hr.separation:after {
+	content: '\002702'; 
+	display: inline-block; 
+	position: relative; 
+	top: -12px; 
+	left: 40px; 
+	padding: 0 3px; 
+	background: #f0f0f0; 
+	color: #8c8b8b; 
+	font-size: 18px; 
+}
+
+a.brand-logo {
+	color: #6EC9AE;
+}
+
+nav ul a {
+	color: #6EC9AE;
+	display: flex;
+}
+
+h2 {
+	color: #6EC9AE;
+}
+
+body {
+	background-color: #F4F4F4;
+}
+
+.liste {
+	white-space: nowrap;
+}
+
+hr {
+	border-top: 1px solid #6EC9AE;
+}
