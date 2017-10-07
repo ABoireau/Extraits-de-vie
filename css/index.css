@@ -105,4 +105,36 @@ hr {
 
 .bouton {
 	background-color: #6EC9AE;
+	margin-left: 1em;
+}
+
+.pagination {
+	text-align: center;
+}
+
+.pagination li.active {
+    background-color: #6EC9AE;
+}
+
+.categorie {
+	font-size: 3rem;
+	text-align: center;
+    color: #6EC9AE;
+}
+
+.article {
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+.commentaire {
+	margin-bottom: 0.5em;
+}
+
+.comment{
+	color: #6EC9AE;
+}
+
+.com {
+	margin-top: 1em;
 }
