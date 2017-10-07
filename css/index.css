@@ -54,7 +54,8 @@ img.img-menu {
 }
 
 .contenu {
-	margin-left: 1em;
+	margin-left: 2.2em;
+    margin-top: 0px;
 }
 
 hr.separation {
@@ -105,7 +106,7 @@ hr {
 
 .bouton {
 	background-color: #6EC9AE;
-	margin-left: 1em;
+	margin-left: 2.2em;
 }
 
 .pagination {
@@ -137,4 +138,33 @@ hr {
 
 .com {
 	margin-top: 1em;
+	margin-left: 0em;
+}
+
+.subtitle {
+	font-style: italic;
+	font-size: 80%;
+	display: inline-block;
+	margin-left: 1.78em;
+    padding: 0 1em;
+}
+
+.material-icons{
+	vertical-align: middle;
+}
+
+.partage {
+	display: inline-block;
+	font-size: 150%;
+}
+
+.titre-article{
+	margin-bottom: 0px;
+}
+
+.subtitle-cat{
+	margin-left: 2.5em;
+	font-style: italic;
+	font-size: 80%;
+	display: inline-block;
 }
