@@ -16,8 +16,7 @@ img.logo {
 }
 
 .img-wrapper {
-	width: 250px;
-	height: 250px;
+
 }
 
 nav {
@@ -36,7 +35,7 @@ nav {
 }
 
 .left-img {
-	margin-left: auto;
+	text-align: right;
 }
 
 .apropos, .contact {
@@ -98,4 +97,12 @@ body {
 
 hr {
 	border-top: 1px solid #6EC9AE;
+}
+
+.row .col.l2 {
+    margin-top: 9%;
+}
+
+.bouton {
+	background-color: #6EC9AE;
 }
