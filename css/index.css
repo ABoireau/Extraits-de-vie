@@ -25,7 +25,31 @@ nav {
 }
 
 .section h2 {
-	font-size:2rem;
+	font-size:2.2rem;
+	padding: 0 1em;
+	color: #6EC9AE;
+}
+
+.section h3 {
+	font-size:1.8rem;
+	padding: 0 1em;
+	color: #6EC9AE;
+}
+
+.section h4 {
+	font-size: 1.6rem;
+	padding: 0 1em;
+	color: #6EC9AE;
+}
+
+.section h5 {
+	font-size: 1.4rem;
+	padding: 0 1em;
+	color: #6EC9AE;
+}
+
+.section h6 {
+	font-size: 1.2rem;
 	padding: 0 1em;
 	color: #6EC9AE;
 }
